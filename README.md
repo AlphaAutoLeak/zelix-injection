@@ -28,7 +28,10 @@ tenacity
 - 不出意外的话今晚就能推出能稳定使用的`破解版`
 ---
 ## 贡献者
-- StarrySky
+- Dimples1337
+- Dimples1338
+- Dimples1339
+- Dimples1340
 ---
 ## 乐子图片
 ![image](https://github.com/ciallo-dev/zelix-injection/blob/master/imgs/4.png)
