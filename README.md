@@ -1,8 +1,8 @@
 # Zelix Injection 
 - ![image](https://github.com/ciallo-dev/zelix-injection/blob/master/imgs/2.png)
 ---
-## ¼ò½é
-- ÕâÊÇ`×îÇ¿`µÄÎÒµÄÊÀ½ç×¢Èë,Ëû³­Ï®ÁËÈçÏÂµÄÎÒµÄÊÀ½ç¿Í»§¶Ë(ËûÓëÎÒµÄÊÀ½ç`Thanatos`¹²Ïísourcecode)
+## ç®€ä»‹
+- è¿™æ˜¯`æœ€å¼º`çš„æˆ‘çš„ä¸–ç•Œæ³¨å…¥,ä»–æŠ„è¢­äº†å¦‚ä¸‹çš„æˆ‘çš„ä¸–ç•Œå®¢æˆ·ç«¯(ä»–ä¸æˆ‘çš„ä¸–ç•Œ`Thanatos`å…±äº«sourcecode)
 ```
 reflection 
 n3ro 
@@ -16,24 +16,24 @@ tenacity
 ```
 ![image](https://github.com/ciallo-dev/zelix-injection/blob/master/imgs/1.png)
 ---
-## Ô´Âë
-ÓÉÓÚÊÇ·´±àÒë»ñµÃµÄÔ´Âë,²¢½øĞĞÁËĞŞ¸´,»¹ÊÇ´æÔÚÄ³Ğ©bug,ÓĞĞËÈ¤µÄ¿ÉÒÔ×Ô¼ºĞŞ¸´Ê£ÓàµÄbug
-- °æ±¾`1.2.1`
-- bug(hud,guiChat,clickGui ÏÔÊ¾Òì³£)
+## æºç 
+ç”±äºæ˜¯åç¼–è¯‘è·å¾—çš„æºç ,å¹¶è¿›è¡Œäº†ä¿®å¤,è¿˜æ˜¯å­˜åœ¨æŸäº›bug,æœ‰å…´è¶£çš„å¯ä»¥è‡ªå·±ä¿®å¤å‰©ä½™çš„bug
+- ç‰ˆæœ¬`1.2.1`
+- bug(hud,guiChat,clickGui æ˜¾ç¤ºå¼‚å¸¸)
 ---
 - hud bug 
 ![image](https://github.com/ciallo-dev/zelix-injection/blob/master/imgs/3.png)
 ---
-## ¿ÉÊ¹ÓÃ°æ±¾
-- ²»³öÒâÍâµÄ»°½ñÍí¾ÍÄÜÍÆ³öÄÜÎÈ¶¨Ê¹ÓÃµÄ`ÆÆ½â°æ`
+## å¯ä½¿ç”¨ç‰ˆæœ¬
+- ä¸å‡ºæ„å¤–çš„è¯ä»Šæ™šå°±èƒ½æ¨å‡ºèƒ½ç¨³å®šä½¿ç”¨çš„`ç ´è§£ç‰ˆ`
 ---
-## ¹±Ï×Õß
-- Dimples1337
-- Dimples1338
-- Dimples1339
-- Dimples1340
+## è´¡çŒ®è€…
+  -ç™½æ²»å†›
+  -ä½™å¿—æ–‡
+  -æä½³ä¹
+  -é™ˆæ¶ˆç‚
 ---
-## ÀÖ×ÓÍ¼Æ¬
+## ä¹å­å›¾ç‰‡
 ![image](https://github.com/ciallo-dev/zelix-injection/blob/master/imgs/4.png)
 ![image](https://github.com/ciallo-dev/zelix-injection/blob/master/imgs/5.png)
 ![image](https://github.com/ciallo-dev/zelix-injection/blob/master/imgs/6.png)
