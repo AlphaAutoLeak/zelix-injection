@@ -28,10 +28,10 @@ tenacity
 - 不出意外的话今晚就能推出能稳定使用的`破解版`
 ---
 ## 贡献者
-  -白治军
-  -余志文
-  -李佳乐
-  -陈消炎
+- 白治军
+- 余志文
+- 李佳乐
+- 陈消炎
 ---
 ## 乐子图片
 ![image](https://github.com/ciallo-dev/zelix-injection/blob/master/imgs/4.png)
