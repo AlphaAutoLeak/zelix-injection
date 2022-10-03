@@ -28,7 +28,6 @@ tenacity
 - 不出意外的话今晚就能推出能稳定使用的`破解版`
 ---
 ## 贡献者
-- 范杨孝
 - Dimples1337
 - Dimples1338
 - Dimples1339
