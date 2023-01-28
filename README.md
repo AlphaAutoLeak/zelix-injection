@@ -25,7 +25,7 @@ tenacity
 ![image](https://github.com/ciallo-dev/zelix-injection/blob/master/imgs/3.png)
 ---
 ## 可使用版本
-- 不出意外的话今晚就能推出能稳定使用的`破解版`
+- 无(请自行编译)
 ---
 ## 贡献者
 - 白治军
